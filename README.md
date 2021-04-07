@@ -156,16 +156,16 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Tegaru-Youth-Edmonton/website.svg?style=for-the-badge
-[contributors-url]: https://github.com/Tegaru-Youth-Edmonton/website/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Tegaru-Youth-Edmonton/website.svg?style=for-the-badge
-[forks-url]: https://github.com/Tegaru-Youth-Edmonton/website/network/members
-[stars-shield]: https://img.shields.io/github/stars/Tegaru-Youth-Edmonton/website.svg?style=for-the-badge
-[stars-url]: https://github.com/Tegaru-Youth-Edmonton/website/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Tegaru-Youth-Edmonton/website.svg?style=for-the-badge
-[issues-url]: https://github.com/Tegaru-Youth-Edmonton/website/issues
-[license-shield]: https://img.shields.io/github/license/Tegaru-Youth-Edmonton/website.svg?style=for-the-badge
-[license-url]: https://github.com/Tegaru-Youth-Edmonton/website/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TegaruYouthEdmonton/website.svg?style=for-the-badge
+[contributors-url]: https://github.com/TegaruYouthEdmonton/website/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TegaruYouthEdmonton/website.svg?style=for-the-badge
+[forks-url]: https://github.com/TegaruYouthEdmonton/website/network/members
+[stars-shield]: https://img.shields.io/github/stars/TegaruYouthEdmonton/website.svg?style=for-the-badge
+[stars-url]: https://github.com/TegaruYouthEdmonton/website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TegaruYouthEdmonton/website.svg?style=for-the-badge
+[issues-url]: https://github.com/TegaruYouthEdmonton/website/issues
+[license-shield]: https://img.shields.io/github/license/TegaruYouthEdmonton/website.svg?style=for-the-badge
+[license-url]: https://github.com/TegaruYouthEdmonton/website/blob/master/LICENSE.txt
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew -->
 [product-screenshot]: https://camo.githubusercontent.com/e6c71e0712c443b4da779254b226ae0fd4bb4114b7fd0c267b6fe3411af53c13/68747470733a2f2f692e6962622e636f2f396256743943352f556e7469746c65642d64657369676e2e706e67
